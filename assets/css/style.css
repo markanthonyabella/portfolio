@@ -1,0 +1,36 @@
+/*navigation //head
+hero banner //main
+about me //main
+project //main
+ 1
+ 2
+ 3
+technical skills//main
+contact//main
+footer //footer*/
+
+.jumbotron {
+  background-image: url("../images/images.jpeg");
+  /*height: 100vh;*/
+}
+
+/*.container {
+  border: solid red 1px;
+}*/
+
+
+.progress-bar {
+	background-color: gray;
+}
+
+.arrow-up {
+	position: fixed;
+	right: 30px;
+	bottom: 10px;
+	font-size: 3em;
+	z-index: 1;
+}
+
+.fa-arrow-circle-up {
+	color: gray;
+}
