@@ -11,6 +11,7 @@ footer //footer*/
 
 .jumbotron {
   background-image: url("../images/images.jpeg");
+
   /*height: 100vh;*/
 }
 
@@ -34,3 +35,19 @@ footer //footer*/
 .fa-arrow-circle-up {
 	color: gray;
 }
+
+.rounded-circle {
+	position: -webkit-sticky; /* Safari */
+  	position: sticky;
+  	top: 0;
+  	padding-top: 10px;
+}
+
+#hero {
+	color: white;
+}
+
+/*.navbar {
+	position: fixed;
+	width: 
+}*/
