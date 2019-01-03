@@ -1,18 +1,12 @@
-/*navigation //head
-hero banner //main
-about me //main
-project //main
- 1
- 2
- 3
-technical skills//main
-contact//main
-footer //footer*/
+
 
 .jumbotron {
-  background-image: url("../images/images.jpeg");
-
-  /*height: 100vh;*/
+  background-image: url("../images/images1.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /*background-size: 100% 100%;*/
+  height: 100vh;
+  width: 100%;
 }
 
 /*.container {
@@ -51,3 +45,21 @@ footer //footer*/
 	position: fixed;
 	width: 
 }*/
+
+#name {
+	text-shadow: 3px 3px 5px black;
+}
+
+#info {
+	text-shadow: 3px 3px 5px black;
+	pa
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+	border: none;
+}
+
+
+
